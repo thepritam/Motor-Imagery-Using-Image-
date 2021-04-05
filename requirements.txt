@@ -1,0 +1,8 @@
+pyedflib==0.1.20
+numpy==1.18.3
+window_slider==0.8
+pickle-mixin==1.0.2
+tensorflow==2.4.1
+keras==2.4.3
+sklearn==0.24.1
+boto3==1.17.44
