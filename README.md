@@ -13,7 +13,7 @@ To install the required dependencies run the following using the Command Prompt:
 RUN Elliptic.mlx 
 ```
 
-Divide the dataset based on the tasks performed in your EEG dataset(In our Case it consists of 4 different tasks: Left Hand Movement, Right Hand Movement,Both Feet Movement,Both Fist Movement) and run the below code. 
+Divide the dataset based on the tasks performed in your EEG dataset (In our Case it consists of 4 different tasks: Left Hand Movement, Right Hand Movement,Both Feet Movement,Both Fist Movement) and run the below code. 
 ```
 RUN rearrangement+slidingwindow.py
 ```
