@@ -8,6 +8,19 @@ To install the required dependencies run the following using the Command Prompt:
 
 `pip install -r requirements.txt`
 
+## Preprocessing
+```
+RUN Elliptic.mlx 
+RUN rearrangement+slidingwindow.py
+RUN storing-new.py
+
+
+```
+## Training the Model and Visualize Result
+
+```
+RUN stacked-ensemble.py
+```
 ## Citation 
 If this repository helps you in your research in any way, please cite our paper:
 
