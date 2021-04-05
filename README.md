@@ -27,8 +27,6 @@ RUN storing-new.py
 ```
 RUN stacked-ensemble.py
 ```
-## Citation 
-If this repository helps you in your research in any way, please cite our paper:
 
 ```
 @article{Biswas2021motor,
