@@ -27,7 +27,9 @@ RUN storing-new.py
 ```
 RUN stacked-ensemble.py
 ```
+## Our Work
 
+We have published our work entitled as "Development of Stacked Neural Architecture for Motor Imagery Prediction"  in "IEEE Engineering in Medicine and Biology Society (EMBS) 2021" with paper id 51.
 ```
 @article{Biswas2021motor,
   title={Development of Stacked Neural Architecture for Motor Imagery Prediction}
